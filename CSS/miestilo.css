@@ -1,0 +1,47 @@
+div {
+   width:360px;
+   height:290px;
+   padding:10px 50px;
+   border:8px solid #FFFFFF;
+   display:inline-block;
+   margin-left:12px;
+   margin-right:10px;
+}
+
+.equipo {
+    width:500px;
+    height:305px;
+    position:absolute;
+    top:; 
+    bottom:;
+    right:103;
+    left:;
+}
+
+.portadas {
+    position:absolute;
+    height:350px;
+    top:430px; 
+    bottom:;
+    right:;
+    left:155px;
+}
+
+.tutoriales {
+    position:relative;
+    top:770px; 
+    bottom:;
+    right:490px;
+    left:;
+}
+
+.videos {
+    position:absolute;
+    top:830; 
+    bottom:;
+    right:70px;
+    left:;
+}
+
+
+
